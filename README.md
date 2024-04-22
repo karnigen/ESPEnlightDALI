@@ -42,3 +42,6 @@ changing short addresses, setting and retrieving configuration parameters for le
 **Usage:**
 
 - To integrate ESPEnlightDALI into your ESP8266 or ESP32 ESP-IDF project, simply include the library in your development environment and utilize its intuitive API to initialize, configure, and control DALI lighting fixtures.
+
+**Deployment:**
+ - Deployment is currently postponed due to significant differences in development environments between ESP32 and ESP8266.
