@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/esp/ESP8266_RTOS_SDK/components/**"
+            ],
+            "defines": [],
+            // "compilerPath": "/usr/bin/clang",
+            // "cStandard": "c17",
+            // "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}

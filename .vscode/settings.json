@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.egsinp": "octave",
+        "*.mortran": "FortranFreeForm",
+        "*.f90": "fortran-modern",
+        "*.pyxbld": "python",
+        "*.tex": "optex",
+        "task.h": "c"
+    }
+}
