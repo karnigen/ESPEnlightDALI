@@ -1,5 +1,10 @@
 # ESPEnlightDALI
 
+**Note**
+
+ - The initial application is in the branch esp8266/v0.0.
+ - The goal should be a library for both ESP8266 and ESP32, but there is a lack of DALI hardware, and compatibility issues arise due to the different ESP8266 and ESP32 IDF.
+
 **Overview:**
 
 ESPEnlightDALI is a high-performance library utilized the Espressif IoT Development Framework (ESP-IDF)
