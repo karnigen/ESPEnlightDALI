@@ -1,10 +1,11 @@
+<!--  preview use F1 -> Markdown preview -->
 
 # ESPEnlightDALI
 
 **Overview:**
 
 ESPEnlightDALI is a high-performance library utilized the Espressif IoT Development Framework (ESP-IDF)
-designed to facilitate DALI (Digital Addressable Lighting Interface) protocol communication for ESP8266 and ESP32 microcontrollers. 
+designed to facilitate DALI (Digital Addressable Lighting Interface) protocol communication for ESP8266 and ESP32 microcontrollers.
 It serves as a low- and mid-level DALI driver, enabling seamless integration of DALI lighting control functionality into your IoT projects.
 
 **Key Features:**

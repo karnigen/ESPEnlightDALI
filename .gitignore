@@ -1,4 +1,8 @@
+
 build/
+sdkconfig*
+
 *.old
 old/
 python/
+
